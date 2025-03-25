@@ -1,5 +1,8 @@
 _repo: A-history-of-Slavic-studies-in-the-United-States_75446
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75446-h/images/cover.jpg
 creator:
   author:
     agent_name: Manning, Clarence Augustus
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50870
     wikipedia: https://en.wikipedia.org/wiki/Clarence_Manning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75446#A-history-of-Slavic-studies-in-the-United-States
 gutenberg_issued: '2025-02-22'
 gutenberg_type: Text
 identifiers:
